@@ -5,6 +5,7 @@ public class TestNep {
 		System.out.println("Github");
 		classA classA = new classA("ABCDEF");
 		System.out.println(classA.getAbc());
+		System.out.println("eren memek");
 	}
 
 }
