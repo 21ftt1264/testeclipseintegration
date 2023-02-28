@@ -7,6 +7,7 @@ public class TestNep {
 		System.out.println(classA.getAbc());
 		System.out.println("eren memek");
 		System.out.println("I edited again hehe");
+		System.out.println("I edited again hehe");
 
 	}
 
